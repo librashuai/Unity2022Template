@@ -1,0 +1,17 @@
+.vs/
+Build/
+Library/
+Logs/
+obj/
+Temp/
+.vsconfig
+Unity.Rider.Editor.csproj
+Unity.VisualStudio.Editor.csproj
+Unity2022Template.sln
+UnityEditor.TestRunner.csproj
+UnityEditor.UI.csproj
+UnityEditor.UI.EditorTests.csproj
+UnityEngine.TestRunner.csproj
+UnityEngine.UI.csproj
+UnityEngine.UI.Tests.csproj
+UnityFreezeDemo.sln

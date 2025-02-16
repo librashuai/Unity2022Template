@@ -1,0 +1,1 @@
+E:\Unity2022.3.47\Data\Unity.exe -projectpath .
